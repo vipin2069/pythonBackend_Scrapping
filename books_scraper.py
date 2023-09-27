@@ -8,7 +8,7 @@ client = MongoClient(MONGO_URI)
 
 # Define the MongoDB collection
 db = client['mydatabase']
-books_collection = db['books']  # Define the collection you want to use
+books_collection = db['books']
 
 # Function to scrape and store books data
 def scrape_and_store_books():
