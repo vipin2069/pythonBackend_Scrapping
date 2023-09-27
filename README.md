@@ -50,6 +50,6 @@ Scrape books data from [http://books.toscrape.com](http://books.toscrape.com) an
 
 ## SCREENSHOTS
 
-![Screenshot 1](screenshots/Screenshot 2023-09-28 003011.png)
-![Screenshot 2](screenshots/Screenshot 2023-09-28 003028.png)
-![Screenshot 3](screenshots/Screenshot 2023-09-28 003048.png)
+![Screenshot 1](./screenshots/Screenshot 2023-09-28 003011.png)
+![Screenshot 2](./screenshots/Screenshot 2023-09-28 003028.png)
+![Screenshot 3](./screenshots/Screenshot 2023-09-28 003048.png./)
